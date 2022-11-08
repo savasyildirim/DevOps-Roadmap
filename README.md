@@ -20,6 +20,8 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 
 ## Learning resources for DevOps Engineers (mostly free)
 
+## Notion Template - (https://savasco.notion.site/cce6e634114a4cde9809d7cfb09f5952?v=12a2e4bd0b4c4235ad694711f64963b0)
+
 ### 1. GIT
 
 - [Pro Git Book](https://git-scm.com/book/en/v2) <sup>FREE</sup>
