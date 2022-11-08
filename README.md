@@ -18,9 +18,9 @@ Download [Version without background](DevOps%20Roadmap%20No%20Background.png).
 
 Download [PDF version](DevOps%20Roadmap.pdf).
 
-## Learning resources for DevOps Engineers (mostly free)
+[Notion Template](https://savasco.notion.site/cce6e634114a4cde9809d7cfb09f5952?v=12a2e4bd0b4c4235ad694711f64963b0)<sup>FREE</sup>
 
-## Notion Template - (https://savasco.notion.site/cce6e634114a4cde9809d7cfb09f5952?v=12a2e4bd0b4c4235ad694711f64963b0)
+## Learning resources for DevOps Engineers (mostly free
 
 ### 1. GIT
 
