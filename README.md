@@ -16,6 +16,10 @@ If you like or are using this project to learn or start your solution, please gi
 
 Download [Version without background](DevOps%20Roadmap%20No%20Background.png).
 
+## PDF version
+
+[![DevOps roadmap](pdfversion.png)](DevOps%20Roadmap.pdf)
+
 Download [PDF version](DevOps%20Roadmap.pdf).
 
 [Notion Template](https://savasco.notion.site/cce6e634114a4cde9809d7cfb09f5952?v=12a2e4bd0b4c4235ad694711f64963b0)<sup>FREE</sup>
@@ -113,6 +117,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [Jenkins, From Zero To Hero: Become a DevOps Jenkins Master](https://www.udemy.com/course/jenkins-from-zero-to-hero) <sup>Udemy course</sup>
 - [Learn GitHub actions](https://learn.microsoft.com/en-us/users/githubtraining/collections/n5p4a5z7keznp5) <sup>FREE</sup>
 - [Learn Azure DevOps](https://milan.milanovic.org/post/ci-cd-with-azure-devops-yaml/) <sup>FREE</sup>
+- [GitLab Cheatsheets](https://dev.to/jphi_baconnais/series/12928) <sup>FREE</sup>
 
 ### 10. Learn Monitoring & Observability
 
@@ -132,7 +137,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [Ultimate AWS Certified Cloud Practitioner - 2022](https://www.udemy.com/course/aws-certified-cloud-practitioner-new) <sup>Udemy</sup>
 - [AWS Developer by A Cloud Guru](https://acloudguru.com/learning-paths/aws-developer) <sup>Learning path</sup>
 
-### 12. Learn DevOps
+### 12. Learn Software Engineering Practices
 
 - [What is Scrum?](https://www.atlassian.com/agile/scrum) <sup>FREE</sup>
 - [Ways To Learn About Scrum](https://www.scrum.org/resources/ways-learn-about-scrum) <sup>FREE</sup>
@@ -140,6 +145,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [The Beginner's Guide to Agile in Jira: Course description](https://university.atlassian.com/student/page/1117976-the-beginner-s-guide-to-agile-in-jira-course-description?sid_i=8) <sup>FREE</sup>
 - [Learn SAFe](https://www.scaledagileframework.com/) <sup>FREE</sup>
 - [Learn Automation Testing](https://blog.testproject.io/2020/03/26/automation-testing-for-beginners-ultimate-guide/) <sup>FREE</sup>
+- [GitLab - Beginner's Guide to DevOps](https://page.gitlab.com/resources-ebook-beginners-guide-devops.html) <sup>FREE</sup>
 
 ### Additional resources (mostly books)
 
